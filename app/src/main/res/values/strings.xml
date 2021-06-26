@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">القدس في قلوبنا</string>
+    <string name="text">Light Mode</string>
+    <string-array name="items">
+        <item>متطلبات الحجر المنزلي</item>
+        <item>مسؤوليات إدارة الصحة العامة</item>
+    </string-array>
+
+    <string-array name="items2">
+        <item>تطهير المنازل</item>
+
+        <item>معدات الوقاية الشخصية</item>
+    </string-array>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="nav_news">أخر الأخبار</string>
+    <string name="nav_history">تاريخ القدس عبر العصور</string>
+    <string name="nav_Dome">معلومات عن قبة الصخرة</string>
+    <string name="nav_pictures">أجمل الصور داخل القدس</string>
+    <string name="nav_map">خريطة القدس</string>
+    <string name="nav_boraq">حائط البراق</string>
+    <string name="fcm_message">hiiii</string>
+    <string name="default_notification_channel_id">Ch1</string>
+
+
+</resources>

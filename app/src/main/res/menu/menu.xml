@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="@string/nav_news"
+            android:id="@+id/nav_news"
+
+            />
+        <item
+            android:title="@string/nav_history"
+            android:id="@+id/nav_history"
+
+            />
+        <item
+            android:title="@string/nav_Dome"
+            android:id="@+id/nav_Dome"
+            />
+        <item
+            android:title="@string/nav_pictures"
+            android:id="@+id/nav_pictures"
+            />
+        <item
+
+            android:title="@string/nav_map"
+            android:id="@+id/nav_map"
+            />
+        <item
+            android:title="@string/nav_boraq"
+            android:id="@+id/nav_boraq"
+            />
+
+    </group>
+
+    <item android:title=""
+        >
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                   android:id="@+id/dark"
+                    android:title="مظهر داكن"
+                   />
+
+            </group>
+
+        </menu>
+
+
+
+    </item>
+
+
+
+
+</menu>

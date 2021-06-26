@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "225897195635",
+    "project_id": "jerusalem-e8f4a",
+    "storage_bucket": "jerusalem-e8f4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225897195635:android:a7b417e02dd32c1e732206",
+        "android_client_info": {
+          "package_name": "com.example.jerusalem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225897195635-uan7k9dvgas1ingn9c2j2m97gm2p5qvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5u4XNSyZUofyFSGwg-cLCHUrDxxLkqog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225897195635-uan7k9dvgas1ingn9c2j2m97gm2p5qvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225897195635:android:538c1ec8aeadff4a732206",
+        "android_client_info": {
+          "package_name": "com.example.jerusalemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225897195635-uan7k9dvgas1ingn9c2j2m97gm2p5qvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5u4XNSyZUofyFSGwg-cLCHUrDxxLkqog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225897195635-uan7k9dvgas1ingn9c2j2m97gm2p5qvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
